@@ -377,8 +377,3 @@
 
 - **[PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot)**：面向教育、研究和 DIY 的开源四足机器猫、机器狗开发框架。
 - **[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)**：轮腿机器人的机械、电子、控制算法仿真与软件开发资料。
-
-## 参考
-
-- 文档形式参考：[lihongbin99/Stars](https://github.com/lihongbin99/Stars)。
-- 收藏数据来自 GitHub 公开 API，简介为本次整理编写。
